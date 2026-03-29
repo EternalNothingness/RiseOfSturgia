@@ -16,7 +16,7 @@
 		<skills>
 			<skill
 				id="Athletics"
-                value="100" />
+                value="20" />
 			<skill
 				id="Riding"
 				value="5" />
