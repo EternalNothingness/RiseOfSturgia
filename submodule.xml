@@ -12,17 +12,6 @@
         <DependedModule Id="StoryMode" />
     </DependedModules>
     <Xmls>
-        <!--
-		<XmlNode>                
-			<XmlName id="Items" path="items" />
-			<IncludedGameTypes>
-				<GameType value="Campaign" />
-				<GameType value="CampaignStoryMode" />
-				<GameType value="CustomGame" />
-				<GameType value="EditorGame" />
-			</IncludedGameTypes>
-		</XmlNode>  
-        -->
 		<XmlNode>                
 			<XmlName id="NPCCharacters" path="spnpccharacters" />
 			<IncludedGameTypes>

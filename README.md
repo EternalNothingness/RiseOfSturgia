@@ -9,3 +9,7 @@ Put this mod in the Modules directory of your Bannerlord installation. If you us
 ## Editing this mod
 
 Follow this [steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2053822450), but edit the files in this mod, not the files of your main installation!
+
+## Notes for the author
+
+How to use XSLT to replace XML entries: [Talesworld Forum1](https://forums.taleworlds.com/index.php?threads/xml-vs-xslt-for-troop-override-question.454053/), [Documentation](https://moddocs.bannerlord.com/bestpractices/xslt_usage_tutorial/)
