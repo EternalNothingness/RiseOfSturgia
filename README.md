@@ -1,6 +1,6 @@
 # Customized Sturgia
 
-This mod resets the Sturgian troop tree to version 1.2.10.
+This mod replaces the 2-hand maces of the (heroic) line breakers with the original 2-hand axes.
 
 ## Installation
 
